@@ -4,3 +4,5 @@ week-3 we made Pine City Zoo app, this was fun, we where allow to use our imagin
 week-4 now the introduction to JavaScript has started and abit similar to HTML.
 week-5 built a basic calculator app and stying the app as well, made sure all the functions work perfectly fine without erros.
 week-6 now we learned more about JS and fetching content from the live server to link with the app built.
+week-7 learned about APIs and fetching data from the server to the code and made a contact book app.
+week-8 made a shopping cart using Python as the main language and the basics of Python with how to apply them in the code.
